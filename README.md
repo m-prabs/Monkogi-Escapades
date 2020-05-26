@@ -1,1 +1,2 @@
-# project2 
+# Monkogi Escapades
+An adventure enthusiast's website
